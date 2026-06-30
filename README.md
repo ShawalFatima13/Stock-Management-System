@@ -4,20 +4,22 @@ An open-source Stock Management System built with Python and SQLite.
 
 Technologies
 
-Python /n
-SQLite /n
-Tkinter GUI /n
+Python
+
+SQLite 
+
+Tkinter GUI 
 
 Features
 
-Login System /n
-Dashboard /n
-Product Management /n
-Supplier Management /n
-Employee Management /n
-Category Management /n
-Sales Management /n
-Stock Update /n
-Invoice Generation /n
-Search Products /n
-Reports /n
+Login System 
+Dashboard
+Product Management 
+Supplier Management 
+Employee Management 
+Category Management 
+Sales Management 
+Stock Update 
+Invoice Generation 
+Search Products 
+Reports 
